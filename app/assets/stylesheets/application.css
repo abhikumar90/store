@@ -1,0 +1,20 @@
+.right {
+   background: #2175bc; 
+  border-bottom: 3px solid red;
+  visibility: hidden;
+  position: absolute; z-index: 5;
+} 
+.right a { display: block; 
+  font: 16px arial; 
+  text-align: left;
+  text-decoration: none; 
+  color: #ffffff; 
+  width: 110px;
+  padding: 4px 10px;
+  text-align: center; 
+} 
+.right a:hover {
+   background: #2586d7; 
+  color: yellow; 
+  
+}
